@@ -23,3 +23,5 @@ Currently works as a weekly workout planner. User auth and workout analysis in p
 - Initial user auth component + routing
 
 <img width="1200" alt="Screenshot 2024-06-25 at 2 22 06 PM" src="https://github.com/Ph1so/FitAnalyzer/assets/56458094/53c3e3e9-6d7c-403b-a5b7-a4fffed053cf">
+
+<img width="1710" alt="Screenshot 2024-06-25 at 3 01 22 PM" src="https://github.com/Ph1so/FitAnalyzer/assets/56458094/4da4f8ac-642e-4d9d-bbba-f1d4abe93b7d">
